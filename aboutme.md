@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: eat well sleep well stay well
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Luz.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 2018.08- Undergraduate, Department of Computer Science and Technology, Tsinghua University, China.
+- 2014-2018, Xiangyang No.5 Middle School of Hubei Province
 
-What else do you need?
+welcome contact me through lumengying66@gmail.com
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Set your course by the stars, not by the lights of every passing ship.    by Omar N.Bradley
+
+
