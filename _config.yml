@@ -15,7 +15,7 @@ author: Lu Mengying
 
 navbar-links:
   About Me: "aboutme"
-  Resources for programming :
+  links :
     - leetcode-cn: "https://leetcode-cn.com/"
     - luogu: "https://www.luogu.org/"
   My Github: "https://github.com/LUUUUUUZ"
